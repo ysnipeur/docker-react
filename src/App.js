@@ -9,6 +9,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>
+          This is my own code directly connected with the container
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
